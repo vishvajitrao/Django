@@ -1,0 +1,5 @@
+Important links-
+https://data-flair.training/blogs/python-tutorials-home/
+https://studygyaan.com/django/how-to-setup-django-applications-with-apache-and-mod-wsgi-on-ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04
+gitconnected.com
